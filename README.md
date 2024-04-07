@@ -1,13 +1,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai)](https://solved.ac/airiai)
-
- <a href="mailto:내 이메일 주소">
-   <img src="https://img.shields.io/badge/Gmail-d14836?
-style=flat-square&
-logo=Gmail&
-logoColor=white
-&link=rlaehdrb9268@gmail.com"/>
-</a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight)
 
 <!--
 **multiful/multiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
