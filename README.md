@@ -5,9 +5,9 @@
 style=flat-square&
 logo=Gmail&
 logoColor=white
-&link=rlaehdrb2485@naver.com"/>
+&link=rlaehdrb9268@gmail.com"/>
 </a>
-[![Anurag's GitHub stats](https://githun-readme-stats.vercel.app/api?username=multiful)](https://github.com/multiful/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight)
 
 <!--
 **multiful/multiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
