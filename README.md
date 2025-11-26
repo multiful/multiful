@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Data%20%26%20AI%20Engineer%20in%20Progress%20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=From%20Data%20to%20Dashboards%20)
+
 
 
 
