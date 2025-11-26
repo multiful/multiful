@@ -59,7 +59,7 @@
 
 ---
 
-## Projects (Brief)
+## Projects
 
 - **Certification Dashboard (Streamlit)**  
   자격증 난이도 분석 및 추천 대시보드 – 합격률·응시자 수·시험 구조 기반 난이도 점수 & 추천 기능
