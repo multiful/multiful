@@ -34,6 +34,9 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+
 
 <br/>
 
@@ -70,7 +73,7 @@
 - **Subway_way (Unity)**  
   지하철을 배경으로 한 선택지 기반 비주얼 노벨 & 미니게임, Unity로 미니게임/세이브·로드 로직 구현
 
-> 자세한 내용은 pinned repositories를 확인해 주세요
+> 자세한 내용은 pinned repositories를 확인해 주세요.
 
 ---
 
