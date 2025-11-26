@@ -3,12 +3,12 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 - 🇰🇷 Industrial Data Engineering @ Hongik Univ.
-- 📊 데이터를 모아서 **모델링 → 대시보드/웹 서비스**까지 이어붙이는 걸 좋아합니다.
-- 🧪 관심 분야: 시계열 예측, 이상 탐지, 추천 시스템, RAG / LLM 에이전트
-- 🚀 목표: 사람들한테 진짜로 도움 되는 **Data / AI 서비스**를 직접 설계·개발·운영해 보기
+- 데이터를 모아서 **모델링 → 대시보드/웹 서비스**까지 이어붙이는 걸 좋아합니다.
+- 관심 분야: 시계열 예측, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화
+- 목표: 사람들한테 진짜로 도움 되는 **Data / AI 서비스**를 직접 설계·개발·운영해 보기
 
 ---
 
@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
@@ -56,22 +55,22 @@
 
 ---
 
-## 📂 Projects (Brief)
+## Projects (Brief)
 
-- 🎓 **Certification Dashboard (Streamlit)**  
+- **Certification Dashboard (Streamlit)**  
   자격증 난이도 분석 및 추천 대시보드 – 합격률·응시자 수·시험 구조 기반 난이도 점수 & 추천 기능
 
-- 🏥 **HIRA – 폐렴 환자 대시보드**  
+- **HIRA – 폐렴 환자 대시보드**  
   HIRA 공개 데이터를 활용해 폐렴 입원 환자 진료 지표를 시각화한 의료 데이터 대시보드
 
-- 🚇 **Subway_way (Unity)**  
+- **Subway_way (Unity)**  
   지하철을 배경으로 한 선택지 기반 비주얼 노벨 & 미니게임, Unity로 미니게임/세이브·로드 로직 구현
 
-> 자세한 내용은 pinned repositories를 확인해 주세요 🙌
+> 자세한 내용은 pinned repositories를 확인해 주세요
 
 ---
 
-## 📊 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight" alt="multiful's GitHub stats" />
