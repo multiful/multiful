@@ -21,7 +21,7 @@
   <a href="[https://your-notion-url](https://future-cardigan-c43.notion.site/Portfolio-2b0958de05da80eeac97f164f44bbf20?pvs=74)">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
   </a>
-  <a href="mailto:rlaehdrb9268@g.hongik.ac.kr">
+  <a href="mailto:rlaehdrb9268@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 
