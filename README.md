@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Building%20Data-Driven%20Things%20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Data%20%26%20AI%20Engineer%20in%20Progress%20🚀)
+
 
 
 
