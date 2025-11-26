@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"/>
+<img src="https://img.shields.io/badge/SHAP-FF4F00?style=for-the-badge&logoColor=white&style=for-the-badge"/>
 
 
 <br/>
