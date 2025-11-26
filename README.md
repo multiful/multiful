@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=From%20Data%20to%20Dashboards%20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Multiful%20–%20Learning%2C%20Building%2C%20Shipping%20🛠️)
 
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight)
