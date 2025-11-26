@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=From%20Data%20to%20Dashboards%20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multiful&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight)
