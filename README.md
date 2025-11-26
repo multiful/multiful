@@ -127,8 +127,6 @@
 
 </div>
 
-/// [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai)](https://solved.ac/airiai)
-
 <!--
 **multiful/multiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
