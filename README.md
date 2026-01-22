@@ -7,7 +7,7 @@
 
 - 🇰🇷 Industrial Data Engineering @ Hongik Univ.
 - 데이터를 모아서 전처리 및 분석 후 모델링 → 대시보드 or 웹,앱 서비스까지 연결하는 것을 좋아합니다.
-- 관심 분야: 딥러닝, 시계열 예측, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정, 프론트엔드(front-end), 백엔드(back-end), Data Analyst, Data Scientist
+- 관심 분야: 딥러닝, 시계열 예측, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정, 프론트엔드(front-end), 백엔드(back-end)
 - 목표: 인사이트를 도출해서 실생활 도움이 되는 Data / AI 서비스를 직접 설계,개발,운영해 보기
 
 ---
