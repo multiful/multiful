@@ -17,8 +17,7 @@
 <div align="center">
 
   <!-- 필요한 것만 남기고, URL/메일은 본인 걸로 바꿔 쓰면 돼요 -->
-
-  <a href="https://future-cardigan-c43.notion.site/Portfolio-2b0958de05da80eeac97f164f44bbf20?pvs=74">
+  <a href="https://www.notion.so/DA-2f046c0be18b805999b5ed19a1704f2b?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
   </a>
   <a href="mailto:rlaehdrb9268@gmail.com">
