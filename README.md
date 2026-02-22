@@ -93,15 +93,17 @@
 
 ## Stats
 
+## Stats
+
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=multiful&amp;show_icons=true&amp;theme=tokyonight&amp;cache_seconds=21600" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiful&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiful&amp;layout=compact&amp;theme=tokyonight&amp;cache_seconds=21600" />
     </td>
   </tr>
   <tr>
