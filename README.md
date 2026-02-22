@@ -15,15 +15,12 @@
 ## Contact
 
 <div align="center">
-
-  <!-- 필요한 것만 남기고, URL/메일은 본인 걸로 바꿔 쓰면 돼요 -->
   <a href="https://www.notion.so/DA-2f046c0be18b805999b5ed19a1704f2b?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
   </a>
   <a href="mailto:rlaehdrb9268@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-
 </div>
 
 <div align="center">
@@ -39,19 +36,15 @@
 <div align="center">
 
 ### Language
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 
-
-
 <br/>
 
 ### Data · ML
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -59,13 +52,11 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"/>
-<img src="https://img.shields.io/badge/SHAP-FF4F00?style=for-the-badge&logoColor=white&style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/SHAP-FF4F00?style=for-the-badge&logoColor=white"/>
 
 <br/>
 
 ### Web · Dashboard
-
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
@@ -73,7 +64,6 @@
 <br/>
 
 ### DB · Infra · Tools
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
@@ -103,13 +93,27 @@
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiful&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://solved.ac/airiai">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai" alt="Solved.ac Profile" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=multiful&show_icons=true&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiful&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/airiai">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai" alt="Solved.ac Profile" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/multiful/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
+    </td>
+  </tr>
+</table>
+
+</div>
