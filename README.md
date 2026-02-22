@@ -94,18 +94,15 @@
 ## Stats
 
 <div align="center">
+  <a href="https://solved.ac/airiai">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai" width="420" alt="Solved.ac" />
+  </a>
+</div>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/airiai">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai" width="420" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/multiful/Programmers_Badge_Generator/main/result/result.svg" width="420" />
-    </td>
-  </tr>
-</table>
+<br/>
 
+## Problem Solving Snapshot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/multiful/Programmers_Badge_Generator/main/result/result.svg" width="520" alt="Programmers Badge" />
 </div>
