@@ -101,8 +101,6 @@
 
 <br/>
 
-## Problem Solving Snapshot
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/multiful/Programmers_Badge_Generator/main/result/result.svg" width="520" alt="Programmers Badge" />
 </div>
