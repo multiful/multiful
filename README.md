@@ -93,27 +93,17 @@
 
 ## Stats
 
-## Stats
-
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=multiful&amp;show_icons=true&amp;theme=tokyonight&amp;cache_seconds=21600" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiful&amp;layout=compact&amp;theme=tokyonight&amp;cache_seconds=21600" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://solved.ac/airiai">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai" alt="Solved.ac Profile" />
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=airiai" width="420" />
       </a>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/multiful/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
+      <img src="https://raw.githubusercontent.com/multiful/Programmers_Badge_Generator/main/result/result.svg" width="420" />
     </td>
   </tr>
 </table>
