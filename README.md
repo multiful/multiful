@@ -82,7 +82,7 @@
   자격증 난이도 분석 및 추천 웹 – 합격률·응시자 수·시험 구조 기반 난이도 점수 구현 & 전공, 희망직무, 학년 등으로 자격증 추천 기능
 
 - **금융위원회 정책 RAG 시스템**  
-  금융 규제·정책 문서를 RSS로 실시간 수집, Hybrid Search + RAG, 스테이블코인·STO 결합 환경의 Risk–Policy Gap Map, Sandbox 시뮬레이션 기능 제공
+  금융 규제·정책 문서를 RSS로 실시간 수집, Hybrid Search + RAG, 스테이블코인·STO 결합 환경의 Risk–Policy Gap Map, Sandbox 시뮬레이션 기능
 
 - **HIRA – 폐렴 환자 대시보드**  
   HIRA 공개 데이터를 활용해 폐렴 입원 환자 진료 지표를 시각화한 의료 데이터 대시보드
