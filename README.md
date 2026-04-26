@@ -6,7 +6,7 @@
 ## About Me
 
 - 🇰🇷 Industrial Data Engineering @ Hongik Univ.
-- RAG를 기반으로 한 최적화, 품질 검증, 추천 시스템을 구현하는 것을 좋아합니다.
+- RAG를 기반으로 최적화, 품질 검증, 추천 시스템을 구현하는 것을 좋아합니다.
 - 관심 분야: 딥러닝, 자연어 처리, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정, 백엔드(back-end)
 - 목표: AI agent 구현, Advanced RAG 파이프라인 구현 및 최적화, 양자화를 통한 경량화 모델 구축
 
