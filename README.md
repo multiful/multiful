@@ -87,7 +87,7 @@
 - **Vulnerable_Groups_RAG**  
   취약계층 분류 및 취업 지원 추천 앱 - 취약계층의 위험도 유형을 분류하고 분류 유형별로 취업과 관련된 자기계발 로드맵 추천 시스템
 
-- **Travel-QA**  
+- **Explainable-Travel-Plan-Validator**  
   AI플래너 평가 및 최적화 웹 - 여행 경로 추천 시스템의 품질 검증을 수행하고 VRPTW & 통계기반 휴리스틱 패널티 & RAG를 결합한 추천 품질의 최적화 및 평가 시스템
 
 > 자세한 내용은 pinned repositories를 확인해 주세요.
