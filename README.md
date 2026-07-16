@@ -7,7 +7,7 @@
 
 - 🇰🇷 Industrial Data Engineering @ Hongik Univ.
 - RAG를 기반으로 최적화, 품질 검증, 추천 시스템을 구현하는 것을 좋아합니다.
-- 관심 분야: 딥러닝, 자연어 처리, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정, 백엔드(back-end)
+- 관심 분야: 딥러닝, 자연어 처리, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정
 - 목표: AI agent 구현, Advanced RAG 파이프라인 구현 및 최적화, 양자화를 통한 경량화 모델 구축
 
 ---
@@ -15,9 +15,6 @@
 ## Contact
 
 <div align="center">
-  <a href="https://www.notion.so/DA-2f046c0be18b805999b5ed19a1704f2b?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-  </a>
   <a href="mailto:rlaehdrb9268@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
