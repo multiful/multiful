@@ -89,7 +89,7 @@
 ## Competition
 
 - **2024-4 Big Data Analytics Certification KR** — [🥇 1st / 139](https://www.kaggle.com/competitions/2024-4-big-data-analytics-certification-kr/leaderboard)
-- **500512 NLP InClass Competition** — [🥈 2nd - Public 1st / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard)
+- **500512 NLP InClass Competition** — [🥈 2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard) - Public 1st
 
 ---
 ## Stats
