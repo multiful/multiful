@@ -6,9 +6,9 @@
 ## About Me
 
 - 🇰🇷 Industrial Data Engineering @ Hongik Univ.
-- RAG를 기반으로 최적화, 품질 검증, 추천 시스템을 구현하는 것을 좋아합니다.
-- 관심 분야: 딥러닝, 자연어 처리, 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정
-- 목표: AI agent 구현, Advanced RAG 파이프라인 구현 및 최적화, 양자화를 통한 경량화 모델 구축
+- RAG를 기반으로 고도화 하여 최적화, 품질 검증, 추천 시스템을 구현하는 것을 좋아합니다.
+- 관심 분야: 딥러닝, 자연어 처리(NLP), 이상 탐지, 추천 시스템, RAG / LLM 에이전트, 최적화 및 의사결정
+- 목표: AI agent 구현, Agentic RAG 파이프라인 구현 및 최적화, 양자화를 통한 경량화 모델 구축
 
 ---
 
@@ -86,7 +86,12 @@
 > 자세한 내용은 pinned repositories를 확인해 주세요.
 
 ---
+## Competition
 
+- **2024-4 Big Data Analytics Certification KR** — [🥇 1st / 139](https://www.kaggle.com/competitions/2024-4-big-data-analytics-certification-kr/leaderboard)
+- **500512 NLP InClass Competition** — [🥈 2nd / 68](https://www.kaggle.com/competitions/500512-NLP-InClassCompetition/leaderboard)
+
+---
 ## Stats
 
 <div align="center">
